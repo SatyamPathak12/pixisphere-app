@@ -1,0 +1,304 @@
+{
+  "photographers": [
+    {
+      "id": 1,
+      "name": "Ravi Studio",
+      "location": "Bengaluru",
+      "price": 10000,
+      "rating": 4.6,
+      "styles": ["Outdoor", "Studio"],
+      "tags": ["Candid", "Maternity"],
+      "bio": "Award-winning studio specializing in maternity and newborn shoots.",
+      "profilePic": "/images/ravi.jpg",
+      "portfolio": ["/images/portfolio1.jpg", "/images/portfolio2.jpg"],
+      "reviews": [
+        {
+          "name": "Ananya",
+          "rating": 5,
+          "comment": "Truly amazing photos and experience!",
+          "date": "2024-12-15"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Lens Queen Photography",
+      "location": "Delhi",
+      "price": 15000,
+      "rating": 4.2,
+      "styles": ["Candid", "Indoor"],
+      "tags": ["Newborn", "Birthday"],
+      "bio": "Delhi-based candid specialist for kids and birthday parties.",
+      "profilePic": "/images/lensqueen.jpg",
+      "portfolio": ["/images/lens1.jpg", "/images/lens2.jpg"],
+      "reviews": [
+        {
+          "name": "Priya",
+          "rating": 4,
+          "comment": "Very professional and punctual!",
+          "date": "2024-10-01"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Click Factory",
+      "location": "Mumbai",
+      "price": 8000,
+      "rating": 4.8,
+      "styles": ["Studio", "Outdoor", "Traditional"],
+      "tags": ["Wedding", "Pre-wedding"],
+      "bio": "Capturing timeless wedding stories across India.",
+      "profilePic": "/images/clickfactory.jpg",
+      "portfolio": ["/images/wed1.jpg", "/images/wed2.jpg"],
+      "reviews": [
+        {
+          "name": "Rahul",
+          "rating": 5,
+          "comment": "We loved every single moment they captured.",
+          "date": "2025-01-22"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Moments by Neha",
+      "location": "Bengaluru",
+      "price": 12000,
+      "rating": 4.3,
+      "styles": ["Outdoor", "Candid"],
+      "tags": ["Maternity", "Couple"],
+      "bio": "Natural light specialist focusing on emotional storytelling.",
+      "profilePic": "/images/neha.jpg",
+      "portfolio": ["/images/neha1.jpg", "/images/neha2.jpg"],
+      "reviews": [
+        {
+          "name": "Sneha",
+          "rating": 4.5,
+          "comment": "Captured our maternity journey so beautifully.",
+          "date": "2024-11-05"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Snapshot Studio",
+      "location": "Hyderabad",
+      "price": 7000,
+      "rating": 3.9,
+      "styles": ["Studio"],
+      "tags": ["Birthday", "Family"],
+      "bio": "Affordable indoor shoots with creative themes.",
+      "profilePic": "/images/snapshot.jpg",
+      "portfolio": ["/images/snapshot1.jpg", "/images/snapshot2.jpg"],
+      "reviews": [
+        {
+          "name": "Vikram",
+          "rating": 3.5,
+          "comment": "Decent service, could improve on punctuality.",
+          "date": "2024-09-10"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Pathak Studio",
+      "location": "Varanasi",
+      "price": 9000,
+      "rating": 3.9,
+      "styles": ["Studio"],
+      "tags": ["Birthday", "Family"],
+      "bio": "Affordable indoor shoots with creative themes and amazing photographas.",
+      "profilePic": "/images/pathak.jpg",
+      "portfolio": ["/images/pathak1.jpg", "/images/pathak2.jpg"],
+      "reviews": [
+        {
+          "name": "Ajay",
+          "rating": 3.5,
+          "comment": "Decent service, could improve on punctuality.",
+          "date": "2024-09-12"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Studio LightCraft",
+      "location": "Chennai",
+      "price": 11000,
+      "rating": 4.5,
+      "styles": ["Traditional", "Studio"],
+      "tags": ["Wedding", "Events"],
+      "bio": "Crafting light and stories through every frame.",
+      "profilePic": "/images/lightcraft.jpg",
+      "portfolio": ["/images/light1.jpg", "/images/light2.jpg"],
+      "reviews": [
+        {
+          "name": "Karthik",
+          "rating": 4.5,
+          "comment": "Great lighting and team effort!",
+          "date": "2024-08-10"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Urban Clicks",
+      "location": "Kolkata",
+      "price": 6000,
+      "rating": 3.8,
+      "styles": ["Outdoor"],
+      "tags": ["Couple", "Travel"],
+      "bio": "Travel-friendly photographers specializing in natural backdrops.",
+      "profilePic": "/images/urban.jpg",
+      "portfolio": ["/images/urban1.jpg", "/images/urban2.jpg"],
+      "reviews": [
+        {
+          "name": "Puja",
+          "rating": 4,
+          "comment": "Loved their outdoor shots!",
+          "date": "2024-07-21"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "DreamFrame Studio",
+      "location": "Ahmedabad",
+      "price": 9500,
+      "rating": 4.1,
+      "styles": ["Candid", "Traditional"],
+      "tags": ["Wedding", "Engagement"],
+      "bio": "Bringing your dream moments to life with elegance.",
+      "profilePic": "/images/dreamframe.jpg",
+      "portfolio": ["/images/dream1.jpg", "/images/dream2.jpg"],
+      "reviews": [
+        {
+          "name": "Rina",
+          "rating": 4,
+          "comment": "Professional and well-coordinated.",
+          "date": "2024-11-01"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Studio PixelCraft",
+      "location": "Pune",
+      "price": 13000,
+      "rating": 4.7,
+      "styles": ["Studio", "Candid"],
+      "tags": ["Fashion", "Editorial"],
+      "bio": "Elite photography for models and fashion designers.",
+      "profilePic": "/images/pixelcraft.jpg",
+      "portfolio": ["/images/pixel1.jpg", "/images/pixel2.jpg"],
+      "reviews": [
+        {
+          "name": "Simran",
+          "rating": 4.7,
+          "comment": "Stunning edits and high-quality shots!",
+          "date": "2024-12-03"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Frame & Focus",
+      "location": "Lucknow",
+      "price": 8500,
+      "rating": 3.6,
+      "styles": ["Traditional"],
+      "tags": ["Family", "Cultural"],
+      "bio": "Capturing the essence of Indian traditions.",
+      "profilePic": "/images/framefocus.jpg",
+      "portfolio": ["/images/focus1.jpg", "/images/focus2.jpg"],
+      "reviews": [
+        {
+          "name": "Neeraj",
+          "rating": 3.5,
+          "comment": "Affordable and decent quality.",
+          "date": "2024-10-22"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Shutter Vibes",
+      "location": "Jaipur",
+      "price": 10500,
+      "rating": 4.0,
+      "styles": ["Outdoor", "Candid"],
+      "tags": ["Pre-wedding", "Travel"],
+      "bio": "Vibrant clicks with a Rajasthani touch.",
+      "profilePic": "/images/shuttervibes.jpg",
+      "portfolio": ["/images/vibes1.jpg", "/images/vibes2.jpg"],
+      "reviews": [
+        {
+          "name": "Megha",
+          "rating": 4.2,
+          "comment": "Loved the desert shoot!",
+          "date": "2024-12-01"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Pixel House",
+      "location": "Nagpur",
+      "price": 7500,
+      "rating": 3.7,
+      "styles": ["Studio"],
+      "tags": ["Traditional", "Birthday"],
+      "bio": "Kids-special photography in studio setup.",
+      "profilePic": "/images/pixelhouse.jpg",
+      "portfolio": ["/images/ph1.jpg", "/images/ph2.jpg"],
+      "reviews": [
+        {
+          "name": "Ritesh",
+          "rating": 3.8,
+          "comment": "Great patience with toddlers!",
+          "date": "2024-08-19"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Golden Hour Clicks",
+      "location": "Goa",
+      "price": 14000,
+      "rating": 4.6,
+      "styles": ["Outdoor", "Candid"],
+      "tags": ["Studio", "Pre-wedding"],
+      "bio": "Specialist in beach and sunset shoots.",
+      "profilePic": "/images/goldenhour.jpg",
+      "portfolio": ["/images/gh1.jpg", "/images/gh2.jpg"],
+      "reviews": [
+        {
+          "name": "Ayesha",
+          "rating": 5,
+          "comment": "Breathtaking sunset frames!",
+          "date": "2025-02-10"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Focus Frame",
+      "location": "Indore",
+      "price": 9500,
+      "rating": 4.0,
+      "styles": ["Candid", "Studio"],
+      "tags": ["Outdoor", "Family"],
+      "bio": "Indore-based team capturing heartfelt stories.",
+      "profilePic": "/images/focusframe.jpg",
+      "portfolio": ["/images/ff1.jpg", "/images/ff2.jpg"],
+      "reviews": [
+        {
+          "name": "Tanvi",
+          "rating": 4.1,
+          "comment": "Good team coordination and editing.",
+          "date": "2024-10-15"
+        }
+      ]
+    }
+  ]
+}
