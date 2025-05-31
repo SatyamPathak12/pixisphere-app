@@ -12,7 +12,8 @@ const usePhotographerStore = create((set) => ({
     set({ loading: true });
 
     try {
-      const res = await axios.get('/api/photographers');
+     const res = await axios.get('https://my-json-server.typicode.com/satyampathak12/pixisphere-data/photographers');
+
       let data = res.data;
 
       // 🔍 Filter if query exists

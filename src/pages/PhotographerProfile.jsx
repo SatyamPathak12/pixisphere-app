@@ -7,7 +7,7 @@ const PhotographerProfile = () => {
   const [photographer, setPhotographer] = useState(null);
 
   useEffect(() => {
-    axios.get(`http://localhost:3001/photographers/${id}`).then((res) => {
+    axios.get(`https://my-json-server.typicode.com/satyampathak12/pixisphere-data/photographers/${id}`).then((res) => {
       setPhotographer(res.data);
     });
   }, [id]);
